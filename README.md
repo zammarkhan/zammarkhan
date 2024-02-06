@@ -32,10 +32,3 @@ I long to collaborate with you and offer high-level, solid answers to your progr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zammarkhan&hide=TeX&layout=compact)
 
-### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=zammarkhan&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-### Visitors
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zammarkhan.zammarkhan)
